@@ -65,5 +65,7 @@ document.addEventListener('DOMContentLoaded',()=>{
   const footer=document.querySelector('footer');
   if(footer){footer.querySelectorAll('a[href*="baruch"],a[href*="90876"]').forEach(a=>a.remove());const first=footer.querySelector('b');if(first)first.textContent='GULF ONLINE STORE';footer.querySelectorAll('.copyright').forEach(p=>p.textContent='Genuine Gulf lubricants. Product selection should match the equipment application.')}
   document.querySelectorAll('body *').forEach(el=>{if(el.children.length===0&&/Baruch|Emmanuel Gnanaseelan|Founder & Industrialist/i.test(el.textContent))el.textContent=el.textContent.replace(/Baruch Engineers/gi,'Gulf Online Store').replace(/Why Baruch/gi,'Why Gulf').replace(/Baruch/gi,'Gulf').replace(/Emmanuel Gnanaseelan\s*[·-]?\s*Founder\s*&\s*Industrialist/gi,'Gulf product specialists')});
+  document.querySelectorAll('a[href*="90876"],a[href*="919087618761"]').forEach(a=>{a.href='tel:+917397559527';a.textContent=a.textContent.replace(/\+?91?\s*90876\s*18761|9087618761/g,'7397559527')});
+  document.querySelectorAll('body *').forEach(el=>{if(el.children.length===0)el.textContent=el.textContent.replace(/9087618761|90876\s*18761/g,'7397559527')});
   if(location.hostname.endsWith('vercel.app'))document.querySelectorAll('.adminTrigger').forEach(el=>el.remove());
 });
