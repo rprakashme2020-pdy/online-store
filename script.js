@@ -69,3 +69,5 @@ document.addEventListener('DOMContentLoaded',()=>{
   document.querySelectorAll('body *').forEach(el=>{if(el.children.length===0)el.textContent=el.textContent.replace(/9087618761|90876\s*18761/g,'7397559527')});
   if(location.hostname.endsWith('vercel.app'))document.querySelectorAll('.adminTrigger').forEach(el=>el.remove());
 });
+document.addEventListener('DOMContentLoaded',()=>{const b=document.querySelector('.brandLogo');if(b)b.innerHTML='<span class="restonBrand">RESTON<br><small>LUBRICANTS INDIA</small></span>';document.querySelectorAll('body *').forEach(el=>{if(el.children.length===0)el.textContent=el.textContent.replace(/Gulf Online Store|Gulf online lubricant store|Gulf products|Gulf lubricants|GULF ONLINE STORE|GULF/gi,m=>/products|lubricants/i.test(m)?'Reston lubricants':'Reston India')});});
+document.addEventListener('DOMContentLoaded',()=>{const replace=()=>document.querySelectorAll('body *').forEach(el=>{if(el.children.length===0)el.textContent=el.textContent.replace(/Gulf/gi,'Reston').replace(/GULF/gi,'RESTON')});replace();new MutationObserver(replace).observe(document.body,{subtree:true,childList:true})});
