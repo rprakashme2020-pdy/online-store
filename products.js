@@ -22,5 +22,6 @@ document.addEventListener('DOMContentLoaded',()=>{
   document.title='Gulf Store | Industrial Lubricants';
   const brand=document.querySelector('.brandLogo');
   if(brand){brand.setAttribute('aria-label','Gulf Store home');brand.innerHTML='<span class="gulfBrand">GULF<br><small>ONLINE STORE</small></span>'}
-  document.querySelectorAll('body *').forEach(el=>{if(el.children.length===0&&/Baruch Engineers|Emmanuel Gnanaseelan|Founder & Industrialist/i.test(el.textContent))el.textContent=el.textContent.replace(/Baruch Engineers/gi,'Gulf Online Store').replace(/Emmanuel Gnanaseelan\s*[·-]?\s*Founder\s*&\s*Industrialist/gi,'Gulf product specialists')});
+  document.querySelectorAll('body *').forEach(el=>{if(el.children.length===0&&/Baruch|Emmanuel Gnanaseelan|Founder & Industrialist/i.test(el.textContent))el.textContent=el.textContent.replace(/Baruch Engineers/gi,'Gulf Online Store').replace(/Why Baruch/gi,'Why Gulf').replace(/Baruch/gi,'Gulf').replace(/Emmanuel Gnanaseelan\s*[·-]?\s*Founder\s*&\s*Industrialist/gi,'Gulf product specialists')});
+  if(location.hostname.endsWith('vercel.app'))document.querySelectorAll('.adminTrigger').forEach(el=>el.remove());
 });
