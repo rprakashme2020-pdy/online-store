@@ -58,6 +58,7 @@ document.addEventListener('DOMContentLoaded',()=>{
   if(brand){brand.setAttribute('aria-label','Gulf Store home');brand.innerHTML='<span class="gulfBrand">GULF<br><small>ONLINE STORE</small></span>'}
   const founder=document.querySelector('.founderSlide');
   if(founder){founder.innerHTML='<div class="slideCopy"><p class="eyebrow">GULF ONLINE STORE</p><h1>Gulf lubricants.<br>Ready to order.<br><em>Keep machines moving.</em></h1><p>Choose genuine Gulf oils and fluids by application, add them to your cart and request delivery for your workshop or fleet.</p><div class="actions"><a class="btn" href="products.html">Shop Gulf Products →</a><a class="btn outline" href="products.html">Browse Categories</a></div></div><div class="storeHeroVisual" aria-hidden="true"></div>'}
+  document.querySelectorAll('img[alt*="Emmanuel" i], .story, .founderVisual, .founderBadge').forEach(el=>el.remove());
   document.querySelectorAll('.slideCopy .eyebrow').forEach(el=>{el.textContent='GULF ONLINE STORE'});
   document.querySelectorAll('.slideCopy h1').forEach((el,i)=>{if(i>0)el.innerHTML='Performance oils.<br>For every duty cycle.<br><em>Order with confidence.</em>'});
   document.querySelectorAll('.slideCopy p:not(.eyebrow)').forEach(el=>{if(/lubricant must|operating conditions|overheating|failure/i.test(el.textContent))el.textContent='Shop genuine Gulf lubricants selected for hydraulic systems, gears, compressors, engines and demanding industrial equipment.'});

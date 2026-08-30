@@ -48,3 +48,4 @@
 :root{--gulf-red:#d71920;--gulf-blue:#004b87}
 .gulfBrand{display:inline-block;font-weight:900;letter-spacing:2px;line-height:.9;color:var(--gulf-blue);font-size:1.45rem}
 .gulfBrand small{font-size:.52rem;letter-spacing:1.5px;color:var(--gulf-red)}
+img[alt*="Emmanuel" i],.founderVisual,.founderBadge,.story{display:none!important}
