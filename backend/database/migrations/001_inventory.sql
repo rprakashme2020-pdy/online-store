@@ -1,0 +1,1 @@
+ALTER TABLE products ADD COLUMN reserved_stock INT UNSIGNED NOT NULL DEFAULT 0 AFTER stock;

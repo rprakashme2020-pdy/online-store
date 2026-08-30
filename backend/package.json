@@ -1,0 +1,8 @@
+{
+  "name": "baruch-engineers-commerce-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "node server.js", "seed": "node scripts/seed.js"},
+  "dependencies": {"dotenv": "^16.4.7", "mysql2": "^3.11.5"}
+}

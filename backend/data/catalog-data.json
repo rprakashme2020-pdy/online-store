@@ -1,0 +1,704 @@
+[
+  {
+    "id": "gulf-1",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony HVI Plus 68 (210 L)",
+    "price": 230,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-2",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony HVI Plus 46 (210 L)",
+    "price": 230,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-3",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony AW Plus 46 (210 L)",
+    "price": 195,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-4",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony AW Plus 46 (20 L)",
+    "price": 230,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-5",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony AW Premium 46 (210 L)",
+    "price": 220,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-6",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony AW Premium 46 (20 L)",
+    "price": 260,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-7",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony AW 68 (210 L)",
+    "price": 180,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-8",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony AW 68 (20 L)",
+    "price": 190,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-9",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony AW 46 (210 L)",
+    "price": 195,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-10",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony AW 46 (20 L)",
+    "price": 220,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-11",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony AW 32 (210 L)",
+    "price": 195,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-12",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony AW 32 (20 L)",
+    "price": 220,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-13",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony AW Plus 68 (210 L)",
+    "price": 190,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-14",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Harmony AW Plus 68 (20 L)",
+    "price": 220,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-15",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Fidelity 68 (208 L)",
+    "price": 250,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-16",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Fidelity 68 (20 L)",
+    "price": 350,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-17",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Fidelity PA 46 (208 L) Synthetic Oil",
+    "price": 650,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-18",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Fidelity PA 46 (20 L) Synthetic Oil",
+    "price": 700,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-19",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Geartek HD 460 (210 L)",
+    "price": 250,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-20",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Geartek HD 460 (20 L)",
+    "price": 300,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-21",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Geartek HD 320 (210 L)",
+    "price": 260,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-22",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Geartek HD 320 (20 L)",
+    "price": 290,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-23",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Geartek HD 220 (210 L)",
+    "price": 260,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-24",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Geartek HD 220 (20 L)",
+    "price": 290,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-25",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Glide 80W-90 (210 L)",
+    "price": 260,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-26",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Glide 80w-90 (20 L)",
+    "price": 280,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-27",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Glide 85W-140 (210 L)",
+    "price": 260,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-28",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Glide 85W-140 (20 L)",
+    "price": 280,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-29",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Gear EP 90 (210 L)",
+    "price": 260,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-30",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Gear EP 90 (50 L)",
+    "price": 280,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-31",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Gear EP 90 (20 L)",
+    "price": 280,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-32",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Gear EP 140 (210 L)",
+    "price": 260,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-33",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Gear EP 140 (50 L)",
+    "price": 260,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-34",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Gear EP 140 (20 L)",
+    "price": 280,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-35",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Ep 80w 90 (210 L)",
+    "price": 260,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-36",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Ep 80w 90 (50 L)",
+    "price": 280,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-37",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Ep 80w 90 (20 L)",
+    "price": 290,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-38",
+    "category": "Automotive Oils",
+    "name": "Gulf Super Duty XLE 15W-40 CI-4 Plus (50 L)",
+    "price": 300,
+    "image": "assets/lubricants/automotive-oils.png",
+    "application": "Automotive Oils",
+    "description": "Verified Gulf product for Automotive Oils applications."
+  },
+  {
+    "id": "gulf-39",
+    "category": "Automotive Oils",
+    "name": "Gulf Super Duty XLE 15W-40 CI-4 Plus (20 L)",
+    "price": 320,
+    "image": "assets/lubricants/automotive-oils.png",
+    "application": "Automotive Oils",
+    "description": "Verified Gulf product for Automotive Oils applications."
+  },
+  {
+    "id": "gulf-40",
+    "category": "Automotive Oils",
+    "name": "Gulf Super Duty XLE 15W-40 CI-4 Plus (210 L)",
+    "price": 200,
+    "image": "assets/lubricants/automotive-oils.png",
+    "application": "Automotive Oils",
+    "description": "Verified Gulf product for Automotive Oils applications."
+  },
+  {
+    "id": "gulf-41",
+    "category": "Automotive Oils",
+    "name": "Gulf Multi Purpose 20W40 Engine Oil (210 L)",
+    "price": 230,
+    "image": "assets/lubricants/automotive-oils.png",
+    "application": "Automotive Oils",
+    "description": "Verified Gulf product for Automotive Oils applications."
+  },
+  {
+    "id": "gulf-42",
+    "category": "Automotive Oils",
+    "name": "Gulf Multi Purpose 20W40 Engine Oil 20 L",
+    "price": 250,
+    "image": "assets/lubricants/automotive-oils.png",
+    "application": "Automotive Oils",
+    "description": "Verified Gulf product for Automotive Oils applications."
+  },
+  {
+    "id": "gulf-43",
+    "category": "Automotive Oils",
+    "name": "Gulf Supreme Duty LE 15W-40 210 L",
+    "price": 230,
+    "image": "assets/lubricants/automotive-oils.png",
+    "application": "Automotive Oils",
+    "description": "Verified Gulf product for Automotive Oils applications."
+  },
+  {
+    "id": "gulf-44",
+    "category": "Automotive Oils",
+    "name": "Gulf Supreme Duty LE 15W-40 50 L",
+    "price": 250,
+    "image": "assets/lubricants/automotive-oils.png",
+    "application": "Automotive Oils",
+    "description": "Verified Gulf product for Automotive Oils applications."
+  },
+  {
+    "id": "gulf-45",
+    "category": "Automotive Oils",
+    "name": "Gulf Super Duty XLE 15W-40 210 L",
+    "price": 200,
+    "image": "assets/lubricants/automotive-oils.png",
+    "application": "Automotive Oils",
+    "description": "Verified Gulf product for Automotive Oils applications."
+  },
+  {
+    "id": "gulf-46",
+    "category": "Automotive Oils",
+    "name": "Gulf Super Duty XLE 15W-40 50 L",
+    "price": 280,
+    "image": "assets/lubricants/automotive-oils.png",
+    "application": "Automotive Oils",
+    "description": "Verified Gulf product for Automotive Oils applications."
+  },
+  {
+    "id": "gulf-47",
+    "category": "AdBlue",
+    "name": "Gulf AdBlue EcoPro 210 L",
+    "price": 65,
+    "image": "assets/lubricants/adblue.png",
+    "application": "AdBlue",
+    "description": "Verified Gulf product for AdBlue applications."
+  },
+  {
+    "id": "gulf-48",
+    "category": "AdBlue",
+    "name": "Gulf AdBlue EcoPro 20 L",
+    "price": 65,
+    "image": "assets/lubricants/adblue.png",
+    "application": "AdBlue",
+    "description": "Verified Gulf product for AdBlue applications."
+  },
+  {
+    "id": "gulf-49",
+    "category": "Metalworking Fluids",
+    "name": "Magicut SL/D 22",
+    "price": 170,
+    "image": "assets/lubricants/metalworking-fluids.png",
+    "application": "Metalworking Fluids",
+    "description": "Verified Gulf product for Metalworking Fluids applications."
+  },
+  {
+    "id": "gulf-50",
+    "category": "Metalworking Fluids",
+    "name": "Magicut SL/D 32",
+    "price": 170,
+    "image": "assets/lubricants/metalworking-fluids.png",
+    "application": "Metalworking Fluids",
+    "description": "Verified Gulf product for Metalworking Fluids applications."
+  },
+  {
+    "id": "gulf-51",
+    "category": "Metalworking Fluids",
+    "name": "Magicut SL/D 18 P",
+    "price": 185,
+    "image": "assets/lubricants/metalworking-fluids.png",
+    "application": "Metalworking Fluids",
+    "description": "Verified Gulf product for Metalworking Fluids applications."
+  },
+  {
+    "id": "gulf-52",
+    "category": "Metalworking Fluids",
+    "name": "Welding coil 1.2 mm (Nouveaux)",
+    "price": 100,
+    "image": "assets/lubricants/metalworking-fluids.png",
+    "application": "Metalworking Fluids",
+    "description": "Verified Gulf product for Metalworking Fluids applications."
+  },
+  {
+    "id": "gulf-53",
+    "category": "Metalworking Fluids",
+    "name": "Welding Coil 0.8 mm (Nouveaux)",
+    "price": 102,
+    "image": "assets/lubricants/metalworking-fluids.png",
+    "application": "Metalworking Fluids",
+    "description": "Verified Gulf product for Metalworking Fluids applications."
+  },
+  {
+    "id": "gulf-54",
+    "category": "Specialty Lubricants",
+    "name": "Radiator Coolants (Gulf Coolant XLL 40 - 210 L)",
+    "price": 200,
+    "image": "assets/lubricants/specialty-lubricants.png",
+    "application": "Specialty Lubricants",
+    "description": "Verified Gulf product for Specialty Lubricants applications."
+  },
+  {
+    "id": "gulf-55",
+    "category": "Specialty Lubricants",
+    "name": "Radiator Coolants 1:7 (Tata - 210 L)",
+    "price": 150,
+    "image": "assets/lubricants/specialty-lubricants.png",
+    "application": "Specialty Lubricants",
+    "description": "Verified Gulf product for Specialty Lubricants applications."
+  },
+  {
+    "id": "gulf-56",
+    "category": "Specialty Lubricants",
+    "name": "Radiator Coolant 1:7 (Tata - 20 L)",
+    "price": 150,
+    "image": "assets/lubricants/specialty-lubricants.png",
+    "application": "Specialty Lubricants",
+    "description": "Verified Gulf product for Specialty Lubricants applications."
+  },
+  {
+    "id": "gulf-57",
+    "category": "Greases",
+    "name": "Gulf Crown Mp3 Grease",
+    "price": 290,
+    "image": "assets/lubricants/greases.png",
+    "application": "Greases",
+    "description": "Verified Gulf product for Greases applications."
+  },
+  {
+    "id": "gulf-58",
+    "category": "Greases",
+    "name": "Gulf Crown Ep 0 Grease",
+    "price": 350,
+    "image": "assets/lubricants/greases.png",
+    "application": "Greases",
+    "description": "Verified Gulf product for Greases applications."
+  },
+  {
+    "id": "gulf-59",
+    "category": "Greases",
+    "name": "Gulf Crown EP 00 Grease",
+    "price": 350,
+    "image": "assets/lubricants/greases.png",
+    "application": "Greases",
+    "description": "Verified Gulf product for Greases applications."
+  },
+  {
+    "id": "gulf-60",
+    "category": "Greases",
+    "name": "Gulf Crown Ep 1 Grease",
+    "price": 350,
+    "image": "assets/lubricants/greases.png",
+    "application": "Greases",
+    "description": "Verified Gulf product for Greases applications."
+  },
+  {
+    "id": "gulf-61",
+    "category": "Greases",
+    "name": "Gulf Crown Ep2 Grease",
+    "price": 350,
+    "image": "assets/lubricants/greases.png",
+    "application": "Greases",
+    "description": "Verified Gulf product for Greases applications."
+  },
+  {
+    "id": "gulf-62",
+    "category": "Greases",
+    "name": "Gulf Crown Endura Wheel Bearing Grease",
+    "price": 550,
+    "image": "assets/lubricants/greases.png",
+    "application": "Greases",
+    "description": "Verified Gulf product for Greases applications."
+  },
+  {
+    "id": "gulf-63",
+    "category": "Specialty Lubricants",
+    "name": "Gulf Therm 46 - 208 L",
+    "price": null,
+    "image": "assets/lubricants/specialty-lubricants.png",
+    "application": "Specialty Lubricants",
+    "description": "Verified Gulf product for Specialty Lubricants applications."
+  },
+  {
+    "id": "gulf-64",
+    "category": "Specialty Lubricants",
+    "name": "Gulf Therm 32 - 208 L",
+    "price": 220,
+    "image": "assets/lubricants/specialty-lubricants.png",
+    "application": "Specialty Lubricants",
+    "description": "Verified Gulf product for Specialty Lubricants applications."
+  },
+  {
+    "id": "gulf-65",
+    "category": "Specialty Lubricants",
+    "name": "Synthetic Heat Transfer Oil (210 Litre)",
+    "price": 280,
+    "image": "assets/lubricants/specialty-lubricants.png",
+    "application": "Specialty Lubricants",
+    "description": "Verified Gulf product for Specialty Lubricants applications."
+  },
+  {
+    "id": "gulf-66",
+    "category": "Metalworking Fluids",
+    "name": "Gulf Emulsyn ALE Synthetic 210 L",
+    "price": 280,
+    "image": "assets/lubricants/metalworking-fluids.png",
+    "application": "Metalworking Fluids",
+    "description": "Verified Gulf product for Metalworking Fluids applications."
+  },
+  {
+    "id": "gulf-67",
+    "category": "Metalworking Fluids",
+    "name": "Gulf Emulsyn ALE Synthetic 20 L",
+    "price": 300,
+    "image": "assets/lubricants/metalworking-fluids.png",
+    "application": "Metalworking Fluids",
+    "description": "Verified Gulf product for Metalworking Fluids applications."
+  },
+  {
+    "id": "gulf-68",
+    "category": "Metalworking Fluids",
+    "name": "Gulf Solucut 210 L",
+    "price": 180,
+    "image": "assets/lubricants/metalworking-fluids.png",
+    "application": "Metalworking Fluids",
+    "description": "Verified Gulf product for Metalworking Fluids applications."
+  },
+  {
+    "id": "gulf-69",
+    "category": "Industrial Gear Oils",
+    "name": "Gulf Geartek HD 220 Gear Oil 20 L",
+    "price": 260,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-70",
+    "category": "Industrial Gear Oils",
+    "name": "Gear Oil Gulf 320 Synthetic 20 L",
+    "price": 800,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-71",
+    "category": "Industrial Gear Oils",
+    "name": "Gear Oil Gulf EP 80W90 20 L",
+    "price": 290,
+    "image": "assets/lubricants/industrial-gear-oils.png",
+    "application": "Industrial Gear Oils",
+    "description": "Verified Gulf product for Industrial Gear Oils applications."
+  },
+  {
+    "id": "gulf-72",
+    "category": "AdBlue",
+    "name": "Tata Autocomp Diesel Exhaust Fluid 210 L",
+    "price": 60,
+    "image": "assets/lubricants/adblue.png",
+    "application": "AdBlue",
+    "description": "Verified Gulf product for AdBlue applications."
+  },
+  {
+    "id": "gulf-73",
+    "category": "AdBlue",
+    "name": "Tata Autocomp Diesel Exhaust Fluid 20 L",
+    "price": 60,
+    "image": "assets/lubricants/adblue.png",
+    "application": "AdBlue",
+    "description": "Verified Gulf product for AdBlue applications."
+  },
+  {
+    "id": "gulf-74",
+    "category": "Metalworking Fluids",
+    "name": "Gulf Super Quench 22 - 210 L",
+    "price": 165,
+    "image": "assets/lubricants/metalworking-fluids.png",
+    "application": "Metalworking Fluids",
+    "description": "Verified Gulf product for Metalworking Fluids applications."
+  },
+  {
+    "id": "gulf-75",
+    "category": "Specialty Lubricants",
+    "name": "Spelube-knit-50 (210 L)",
+    "price": 175,
+    "image": "assets/lubricants/specialty-lubricants.png",
+    "application": "Specialty Lubricants",
+    "description": "Verified Gulf product for Specialty Lubricants applications."
+  },
+  {
+    "id": "gulf-76",
+    "category": "Automotive Oils",
+    "name": "Gulf Super Duty VLE 15W-40 (210 L)",
+    "price": 190,
+    "image": "assets/lubricants/automotive-oils.png",
+    "application": "Automotive Oils",
+    "description": "Verified Gulf product for Automotive Oils applications."
+  },
+  {
+    "id": "gulf-77",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Fidelity 46 (208 L)",
+    "price": null,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  },
+  {
+    "id": "gulf-78",
+    "category": "Hydraulic Oils",
+    "name": "Gulf Fidelity 46 (20 L)",
+    "price": null,
+    "image": "assets/lubricants/hydraulic-oils.png",
+    "application": "Hydraulic Oils",
+    "description": "Verified Gulf product for Hydraulic Oils applications."
+  }
+]

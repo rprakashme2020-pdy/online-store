@@ -1,0 +1,9 @@
+{
+  "storeName": "Your Store Name",
+  "brand": { "primaryColor": "#ff5b0a", "darkColor": "#09212a", "logoPath": "assets/logo.png" },
+  "currency": "INR",
+  "contact": { "email": "orders@example.com", "phone": "" },
+  "delivery": { "cities": ["Chennai", "Pondicherry"], "defaultStatus": "New order" },
+  "payments": { "methods": ["Bank transfer", "Cash on delivery"], "razorpayEnabled": false },
+  "admin": { "path": "admin.html" }
+}
